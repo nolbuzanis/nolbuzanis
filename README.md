@@ -49,6 +49,11 @@ coming soon...
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#461](https://github.com/narative/gatsby-theme-novela/issues/461) in [narative/gatsby-theme-novela](https://github.com/narative/gatsby-theme-novela)
+2. ❗️ Closed issue [#461](https://github.com/narative/gatsby-theme-novela/issues/461) in [narative/gatsby-theme-novela](https://github.com/narative/gatsby-theme-novela)
+3. 🗣 Commented on [#463](https://github.com/narative/gatsby-theme-novela/issues/463) in [narative/gatsby-theme-novela](https://github.com/narative/gatsby-theme-novela)
+4. 💪 Opened PR [#463](https://github.com/narative/gatsby-theme-novela/pull/463) in [narative/gatsby-theme-novela](https://github.com/narative/gatsby-theme-novela)
+5. 💪 Opened PR [#462](https://github.com/narative/gatsby-theme-novela/pull/462) in [narative/gatsby-theme-novela](https://github.com/narative/gatsby-theme-novela)
 <!--END_SECTION:activity-->
 
 </details>
