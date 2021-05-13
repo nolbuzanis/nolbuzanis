@@ -5,18 +5,16 @@
 
 - 🌱 I’m currently learning **Gatsby and GraphQL!**
 
-- 👨‍💻 All of my projects are available at [nolanbuzanis.com](nolanbuzanis.com)
+- 👨‍💻 All of my projects are available at [nolanbuzanis.com](https://nolanbuzanis.com)
 
 - 💬 Ask me about **React, Node, or Typescript**
-
-- 📫 How to reach me **nolanbuzanis@gmail.com**
 
 - ⚡ Fun fact **I also love playing guitar and going camping**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nolanbuzanis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="nolanbuzanis" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nolbuzanis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" alt="nolbuzanis" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11455448/nolbuzanis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" alt="nolbuzanis" height="30" width="40" /></a>
 <a href="https://medium.com/@nolanbuzanis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" alt="@nolanbuzanis" height="30" width="40" /></a>
 </p>
 
