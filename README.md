@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Node, or Typescript**
 
-- ⚡ Fun fact **I also love playing guitar and going camping**
+- ⚡ Fun fact: **I also love playing guitar and going camping**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
