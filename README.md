@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Millennium](https://github.com/nolbuzanis/gatsby-theme-novela)
 
-- 🌱 I’m currently learning **Gatsby and GraphQL!**
+- 🌱 I’m currently learning **NextJS!**
 
 - 👨‍💻 All of my projects are available at [nolanbuzanis.com](https://nolanbuzanis.com)
 
