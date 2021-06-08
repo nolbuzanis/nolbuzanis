@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nolan</h1>
 <h3 align="center">An experienced full-stack developer and entrepreneur</h3>
 
-- 🔭 I’m currently working on [Millennium](https://github.com/nolbuzanis/gatsby-theme-novela)
+- 🔭 I’m currently working on [Millennium](https://github.com/nolbuzanis/millennium)
 
 - 🌱 I’m currently learning **NextJS!**
 
-- 👨‍💻 All of my projects are available at [nolanbuzanis.com](https://nolanbuzanis.com)
+<!-- - 👨‍💻 All of my projects are available at [nolanbuzanis.com](https://nolanbuzanis.com) -->
 
 - 💬 Ask me about **React, Node, or Typescript**
 
