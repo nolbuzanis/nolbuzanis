@@ -25,11 +25,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/nolbuzanis/millennium/pull/1) in [nolbuzanis/millennium](https://github.com/nolbuzanis/millennium)
-2. 💪 Opened PR [#1](https://github.com/nolbuzanis/millennium/pull/1) in [nolbuzanis/millennium](https://github.com/nolbuzanis/millennium)
-3. 🗣 Commented on [#461](https://github.com/narative/gatsby-theme-novela/issues/461) in [narative/gatsby-theme-novela](https://github.com/narative/gatsby-theme-novela)
-4. ❗️ Closed issue [#461](https://github.com/narative/gatsby-theme-novela/issues/461) in [narative/gatsby-theme-novela](https://github.com/narative/gatsby-theme-novela)
-5. 🗣 Commented on [#463](https://github.com/narative/gatsby-theme-novela/issues/463) in [narative/gatsby-theme-novela](https://github.com/narative/gatsby-theme-novela)
+1. ❌ Closed PR [#15](https://github.com/nolbuzanis/refresh/pull/15) in [nolbuzanis/refresh](https://github.com/nolbuzanis/refresh)
+2. ❌ Closed PR [#14](https://github.com/nolbuzanis/refresh/pull/14) in [nolbuzanis/refresh](https://github.com/nolbuzanis/refresh)
+3. ❌ Closed PR [#13](https://github.com/nolbuzanis/refresh/pull/13) in [nolbuzanis/refresh](https://github.com/nolbuzanis/refresh)
+4. ❌ Closed PR [#12](https://github.com/nolbuzanis/refresh/pull/12) in [nolbuzanis/refresh](https://github.com/nolbuzanis/refresh)
+5. ❌ Closed PR [#11](https://github.com/nolbuzanis/refresh/pull/11) in [nolbuzanis/refresh](https://github.com/nolbuzanis/refresh)
 <!--END_SECTION:activity-->
 
 </details>
