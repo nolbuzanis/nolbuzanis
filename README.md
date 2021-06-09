@@ -25,11 +25,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15](https://github.com/nolbuzanis/refresh/pull/15) in [nolbuzanis/refresh](https://github.com/nolbuzanis/refresh)
-2. ❌ Closed PR [#14](https://github.com/nolbuzanis/refresh/pull/14) in [nolbuzanis/refresh](https://github.com/nolbuzanis/refresh)
-3. ❌ Closed PR [#13](https://github.com/nolbuzanis/refresh/pull/13) in [nolbuzanis/refresh](https://github.com/nolbuzanis/refresh)
-4. ❌ Closed PR [#12](https://github.com/nolbuzanis/refresh/pull/12) in [nolbuzanis/refresh](https://github.com/nolbuzanis/refresh)
-5. ❌ Closed PR [#11](https://github.com/nolbuzanis/refresh/pull/11) in [nolbuzanis/refresh](https://github.com/nolbuzanis/refresh)
+1. ❗️ Closed issue [#5](https://github.com/nolbuzanis/millennium/issues/5) in [nolbuzanis/millennium](https://github.com/nolbuzanis/millennium)
+2. ❌ Closed PR [#15](https://github.com/nolbuzanis/refresh/pull/15) in [nolbuzanis/refresh](https://github.com/nolbuzanis/refresh)
+3. ❌ Closed PR [#14](https://github.com/nolbuzanis/refresh/pull/14) in [nolbuzanis/refresh](https://github.com/nolbuzanis/refresh)
+4. ❌ Closed PR [#13](https://github.com/nolbuzanis/refresh/pull/13) in [nolbuzanis/refresh](https://github.com/nolbuzanis/refresh)
+5. ❌ Closed PR [#12](https://github.com/nolbuzanis/refresh/pull/12) in [nolbuzanis/refresh](https://github.com/nolbuzanis/refresh)
 <!--END_SECTION:activity-->
 
 </details>
