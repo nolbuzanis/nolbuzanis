@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nolan</h1>
 <h3 align="center">An experienced software engineer and entrepreneur</h3>
 
-- 🔭 I’m currently working on [Millennium](https://github.com/nolbuzanis/millennium)
+- 🔭 I’m currently writing on [My Website](https://nolanbuzanis.com)
 
 - 🌱 I’m currently learning **NextJS!**
 
