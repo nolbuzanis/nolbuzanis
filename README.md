@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently writing on [My Website](https://nolanbuzanis.com)
 
-- 🌱 I’m currently learning **NextJS!**
+- 🌱 I’m currently learning **Flutter & Dart!**
 
 <!-- - 👨‍💻 All of my projects are available at [nolanbuzanis.com](https://nolanbuzanis.com) -->
 
