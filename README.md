@@ -25,7 +25,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/nolbuzanis/millennium/issues/5) in [nolbuzanis/millennium](https://github.com/nolbuzanis/millennium)
+1. 🎉 Merged PR [#17](https://github.com/nolbuzanis/nolanbuzanis.com/pull/17) in [nolbuzanis/nolanbuzanis.com](https://github.com/nolbuzanis/nolanbuzanis.com)
 2. ❌ Closed PR [#15](https://github.com/nolbuzanis/refresh/pull/15) in [nolbuzanis/refresh](https://github.com/nolbuzanis/refresh)
 3. ❌ Closed PR [#14](https://github.com/nolbuzanis/refresh/pull/14) in [nolbuzanis/refresh](https://github.com/nolbuzanis/refresh)
 4. ❌ Closed PR [#13](https://github.com/nolbuzanis/refresh/pull/13) in [nolbuzanis/refresh](https://github.com/nolbuzanis/refresh)
