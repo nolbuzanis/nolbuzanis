@@ -25,11 +25,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/nolbuzanis/buds-bot/pull/3) in [nolbuzanis/buds-bot](https://github.com/nolbuzanis/buds-bot)
-2. 💪 Opened PR [#244](https://github.com/PLhery/node-twitter-api-v2/pull/244) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
-3. ❗️ Opened issue [#243](https://github.com/PLhery/node-twitter-api-v2/issues/243) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
-4. 🎉 Merged PR [#2](https://github.com/nolbuzanis/buds-bot/pull/2) in [nolbuzanis/buds-bot](https://github.com/nolbuzanis/buds-bot)
-5. 💪 Opened PR [#2](https://github.com/nolbuzanis/buds-bot/pull/2) in [nolbuzanis/buds-bot](https://github.com/nolbuzanis/buds-bot)
+1. 🎉 Merged PR [#22](https://github.com/nolbuzanis/nolanbuzanis.com/pull/22) in [nolbuzanis/nolanbuzanis.com](https://github.com/nolbuzanis/nolanbuzanis.com)
+2. 💪 Opened PR [#22](https://github.com/nolbuzanis/nolanbuzanis.com/pull/22) in [nolbuzanis/nolanbuzanis.com](https://github.com/nolbuzanis/nolanbuzanis.com)
+3. 🎉 Merged PR [#21](https://github.com/nolbuzanis/nolanbuzanis.com/pull/21) in [nolbuzanis/nolanbuzanis.com](https://github.com/nolbuzanis/nolanbuzanis.com)
+4. 🎉 Merged PR [#3](https://github.com/nolbuzanis/buds-bot/pull/3) in [nolbuzanis/buds-bot](https://github.com/nolbuzanis/buds-bot)
+5. 💪 Opened PR [#244](https://github.com/PLhery/node-twitter-api-v2/pull/244) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
 <!--END_SECTION:activity-->
 
 </details>
