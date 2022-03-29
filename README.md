@@ -25,11 +25,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#245](https://github.com/PLhery/node-twitter-api-v2/pull/245) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
-2. 💪 Opened PR [#245](https://github.com/PLhery/node-twitter-api-v2/pull/245) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
-3. 🎉 Merged PR [#23](https://github.com/nolbuzanis/nolanbuzanis.com/pull/23) in [nolbuzanis/nolanbuzanis.com](https://github.com/nolbuzanis/nolanbuzanis.com)
-4. 💪 Opened PR [#23](https://github.com/nolbuzanis/nolanbuzanis.com/pull/23) in [nolbuzanis/nolanbuzanis.com](https://github.com/nolbuzanis/nolanbuzanis.com)
-5. 🎉 Merged PR [#22](https://github.com/nolbuzanis/nolanbuzanis.com/pull/22) in [nolbuzanis/nolanbuzanis.com](https://github.com/nolbuzanis/nolanbuzanis.com)
+1. 💪 Opened PR [#246](https://github.com/PLhery/node-twitter-api-v2/pull/246) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
+2. ❌ Closed PR [#245](https://github.com/PLhery/node-twitter-api-v2/pull/245) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
+3. 💪 Opened PR [#245](https://github.com/PLhery/node-twitter-api-v2/pull/245) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
+4. 🎉 Merged PR [#23](https://github.com/nolbuzanis/nolanbuzanis.com/pull/23) in [nolbuzanis/nolanbuzanis.com](https://github.com/nolbuzanis/nolanbuzanis.com)
+5. 💪 Opened PR [#23](https://github.com/nolbuzanis/nolanbuzanis.com/pull/23) in [nolbuzanis/nolanbuzanis.com](https://github.com/nolbuzanis/nolanbuzanis.com)
 <!--END_SECTION:activity-->
 
 </details>
