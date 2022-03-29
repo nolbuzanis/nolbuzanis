@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nolan</h1>
 <h3 align="center">An experienced software engineer and entrepreneur</h3>
 
-- 🔭 I’m currently writing on [My Website](https://nolanbuzanis.com)
+- 🔭 I’m currently working on [My Website](https://nolanbuzanis.com)
 
 - 🌱 I’m currently learning **Hack**!
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nolanbuzanis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="nolanbuzanis" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11455448/nolbuzanis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" alt="nolbuzanis" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/11455448/nolbuzanis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" alt="nolbuzanis" height="30" width="40" /></a> -->
 <a href="https://medium.com/@nolanbuzanis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" alt="@nolanbuzanis" height="30" width="40" /></a>
 </p>
 
