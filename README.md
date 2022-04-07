@@ -25,11 +25,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#257](https://github.com/PLhery/node-twitter-api-v2/issues/257) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
-2. ❗️ Opened issue [#256](https://github.com/PLhery/node-twitter-api-v2/issues/256) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
-3. 🗣 Commented on [#255](https://github.com/PLhery/node-twitter-api-v2/issues/255) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
-4. 💪 Opened PR [#255](https://github.com/PLhery/node-twitter-api-v2/pull/255) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
-5. 🗣 Commented on [#248](https://github.com/PLhery/node-twitter-api-v2/issues/248) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
+1. 💪 Opened PR [#258](https://github.com/PLhery/node-twitter-api-v2/pull/258) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
+2. ❗️ Opened issue [#257](https://github.com/PLhery/node-twitter-api-v2/issues/257) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
+3. ❗️ Opened issue [#256](https://github.com/PLhery/node-twitter-api-v2/issues/256) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
+4. 🗣 Commented on [#255](https://github.com/PLhery/node-twitter-api-v2/issues/255) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
+5. 💪 Opened PR [#255](https://github.com/PLhery/node-twitter-api-v2/pull/255) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
 <!--END_SECTION:activity-->
 
 </details>
